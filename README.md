@@ -1,7 +1,7 @@
 ![logo](https://github.com/izazahmad-ai/izazahmad-ai/blob/main/izaz.png)
 <h1 align="center">Hi 👋, I'm Izaz Ahmad</h1>
 <h3 align="center">Machine Learning and Deep Learning Engineer from Pakistan</h3>
-<img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1358/1*bhFifratH9DjKqMBTeQG5A.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*bhFifratH9DjKqMBTeQG5A.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izazahmad-ai&label=Profile%20views&color=0e75b6&style=flat" alt="izazahmad-ai" /> </p>
 
