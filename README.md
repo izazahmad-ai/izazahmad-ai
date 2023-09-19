@@ -1,4 +1,4 @@
-![logo](https://github.com/izazahmad-ai/izazahmad-ai/blob/main/izaz.png)
+![logo](https://github.com/izazahmad-ai/izazahmad-ai/blob/main/i.ahmad.png)
 <h1 align="center">Hi 👋, I'm Izaz Ahmad</h1>
 <h3 align="center">Machine Learning and Deep Learning Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*bhFifratH9DjKqMBTeQG5A.gif">
