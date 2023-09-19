@@ -1,4 +1,4 @@
-![logo](https://github.com/izazahmad-ai/Izazahmad/blob/main/Blue%20Modern%20Web%20Designer%20Twitter%20Header.png)
+![logo](https://github.com/izazahmad-ai/izazahmad-ai/blob/main/izaz.png)
 <h1 align="center">Hi 👋, I'm Izaz Ahmad</h1>
 <h3 align="center">Machine Learning and Deep Learning Engineer from Pakistan</h3>
 
