@@ -11,9 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Medical Image Analysis**
 
-- 🤝 I’m looking for help with **Generative AI**
-
-- 📝 I regularly write articles on [Natural and Medical Images](Natural and Medical Images)
+- 📝 I regularly write articles on Natural and Medical Images
 
 - 💬 Ask me about **AI | ML | DL| LLM**
 
