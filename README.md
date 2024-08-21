@@ -1,19 +1,17 @@
 ![logo](https://github.com/izazahmad-ai/izazahmad-ai/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Izaz Ahmad</h1>
-<h3 align="center">Machine Learning and Deep Learning Engineer from Pakistan</h3>
+<h3 align="center">AI and LLM Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*bhFifratH9DjKqMBTeQG5A.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izazahmad-ai&label=Profile%20views&color=0e75b6&style=flat" alt="izazahmad-ai" /> </p>
 
-- 🔭 I’m currently working on **Brain Tumor Surgery, Using Advance AI Techniques**
+- 🔭 I’m currently working on **GenAI and Computer Vision**
 
-- 🌱 I’m currently learning **Natural Language Processing (NLP)**
-
-- 👯 I’m looking to collaborate on **Medical Image Analysis**
+- 👯 I’m looking to collaborate on **Agentic Approaches**
 
 - 📝 I regularly write articles on Natural and Medical Images
 
-- 💬 Ask me about **AI | ML | DL| LLM**
+- 💬 Ask me about **AI |AGI|ML|DL|LLM**
 
 - 📫 How to reach me **izazkhattak7@gmail.com**
 
